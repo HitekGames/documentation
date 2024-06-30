@@ -33,3 +33,12 @@ Git LFS -https://git-lfs.com
 ### Visual Studio
 Главный сайт - https://visualstudio.microsoft.com/ru/   
 IDE для разработки  
+
+### IntelliJ IDEA Community Edition
+Главный сайт - https://www.jetbrains.com/idea/download  
+Крутая IDEшка для базовых задач  
+Вам нужно опуститься ниже, ибо сверху будет платная версия, ниже - бесплатная  
+
+### Google Drive
+Главный сайт - https://www.google.com/intl/ru/drive/download/  
+Удобнее работать, если интегрировано в систему  

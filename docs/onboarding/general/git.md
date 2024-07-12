@@ -1,90 +1,84 @@
-# Git - что нужно уметь?
+# Git - What You Need to Know
 
-## Базовое понимание Git
+## Basic Understanding of Git
 
-### Что такое Git?
+### What is Git?
 
-**Git** — это распределённая система контроля версий, предназначенная для 
-отслеживания изменений в файлах и координации
-работы над этими файлами среди множества участников. Git позволяет вам 
-версионировать файлы, откатывать изменения,
-возвращаться к предыдущим версиям и совместно работать с другими разработчиками.
+**Git** is a distributed version control system designed for tracking 
+changes in files and coordinating work on those files among multiple 
+participants. Git allows you to version files, roll back changes, 
+return to previous versions, and collaborate with other developers.
 
-### Зачем он нужен?
+### Why is it needed?
 
-**Контроля версий:** Отслеживания истории изменений кода, что позволяет 
-возвращаться к более ранним версиям и управлять
-различными версиями проекта.  
+**Version Control:** Tracking the history of code changes, allowing you 
+to return to earlier versions and manage different versions of the project.
 
-**Коллаборации:** Совместной работы над проектами, где множество разработчиков 
-могут одновременно вносить изменения без
-риска потери данных.  
+**Collaboration:** Enabling joint work on projects where multiple developers 
+can simultaneously make changes without the risk of data loss.
 
-**Резервного копирования:** Хранения истории изменений на разных машинах, 
-обеспечивая защиту от потери данных.
+**Backup:** Storing the history of changes on different machines, 
+ensuring data loss protection.
 
-## Понимание ключевых концепций Git
+## Understanding Key Git Concepts
 
-**Ветки (Branches)**  
-Ветки в Git позволяют разработчикам изолированно работать над новыми функциями 
-или исправлениями, не мешая основной
-кодовой базе. Это фундаментальная часть Git для управления многозадачностью и 
-разделения проекта на логические части.
+**Branches**  
+Branches in Git allow developers to work on new features or fixes in 
+isolation without affecting the main codebase. This is a fundamental part of 
+Git for managing multitasking and dividing the project into logical parts.
 
-**Коммиты (Commits)**  
-Коммиты — это записи о изменениях в коде. Каждый коммит сохраняет фотографию 
-всех файлов проекта на момент коммита, что
-позволяет в любой момент вернуться к этому состоянию.  
+**Commits**  
+Commits are records of changes to the code. Each commit saves a snapshot of 
+all project files at the time of the commit, 
+allowing you to return to this state at any time.
 
 **Pull**  
-Операция pull используется для получения и интеграции изменений из удалённого 
-репозитория в текущую ветку в локальном
-репозитории. Это позволяет синхронизировать свою работу с изменениями, 
-сделанными другими участниками проекта.  
+The pull operation is used to fetch and integrate changes from a 
+remote repository into the current branch in the local repository. 
+This allows you to synchronize your work with changes made by other 
+project participants.
 
 **Push**  
-Push отправляет ваши локальные изменения в удалённый репозиторий. 
-Это обеспечивает доступность ваших изменений для
-других членов команды.  
+Push sends your local changes to the remote repository. 
+This makes your changes available to other team members.
 
-**Клонирование проекта (Cloning)**  
-Клонирование — это создание локальной копии существующего удалённого 
-репозитория. Это первый шаг для участия в
-разработке проекта, который уже существует на удалённом сервере.
+**Cloning a Project**  
+Cloning creates a local copy of an existing remote repository. 
+This is the first step in participating in the development of a 
+project that already exists on a remote server.
 
-## Навыки работы с Git
+## Git Skills
 
-### Для эффективной работы с Git в данной организации, человек должен уметь:
+### For effective work with Git in this organization, you should be able to:
 
-**Создавать и управлять ветками:** Понимать, когда и зачем создавать новые 
-ветки, уметь переключаться между ними и сливать изменения.  
+**Create and Manage Branches:** Understand when and why to create new 
+branches, switch between them, and merge changes.
 
-**Делать коммиты:** Знать, как делать коммиты, которые чётко описывают 
-сделанные изменения, чтобы история изменений была понятной и организованной.  
+**Make Commits:** Know how to make commits that clearly describe 
+the changes made, so the change history is clear and organized.
 
-**Выполнять операции pull и push:** Синхронизировать свою работу с работой 
-других разработчиков, отправлять свои изменения на сервер и получать чужие.  
+**Perform Pull and Push Operations:** Synchronize your work with 
+that of other developers, send your changes to the server, and receive others'.
 
-**Клонировать репозитории:** Уметь начинать работу над существующим проектом 
-с помощью клонирования репозитория.  
+**Clone Repositories:** Know how to start working on an existing 
+project by cloning a repository.
 
-## Где брать знаний? Уроки ниже
+## Where to Gain Knowledge? Lessons Below
 
-Git: Курс  
+Git: Course  
 https://www.youtube.com/playlist?list=PLDyvV36pndZFHXjXuwA_NywNrVQO0aQqb
 
-Урок в одном видео  
+Lesson in One Video  
 https://www.youtube.com/watch?v=VJm_AjiTEEc&t=92s
 
-Основы Git для новичков (2021)  
+Git Basics for Beginners (2021)  
 https://www.youtube.com/playlist?list=PL8X2nqRlWfab4cebpPc3ENb5UBQDxcM0H
 
-Уроки по GIT  
+Git Lessons  
 https://www.youtube.com/playlist?list=PLbLBXDhswD1eq9M-KavTK98Z4OI00VbsW
 
-Уроки по Git и GitHub  
+Git and GitHub Lessons  
 https://www.youtube.com/playlist?list=PLuY6eeDuleIOMB2R_Kky05ZfiAx2_pbAH
 
-Git и GitHub для начинающих 2024  
+Git and GitHub for Beginners 2024  
 https://www.youtube.com/playlist?list=PLuY6eeDuleIMtvOvJBAbakwcIdEt7IAXT
-

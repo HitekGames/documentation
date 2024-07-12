@@ -1,32 +1,30 @@
-# Создание и подключение SSH ключей к GitHub  
-Если у тебя уже установлен Git, то при нажатии правой кнопки мыши в 
-любом месте ты увидишь контекстное меню с опцией для запуска консоли Git Bash.
+# Creating and Connecting SSH Keys to GitHub
+If you already have Git installed, right-click anywhere to see a 
+context menu with an option to launch Git Bash.
 
-- Открой Git Bash через это контекстное меню.
-- В открывшейся консоли введи следующую команду для генерации SSH-ключа 
-(не забудь заменить your_email@example.com на свой реальный email):
-`ssh-keygen -t rsa -b 4096 -C "your_email@example.com"`
-- Когда тебе будет предложено ввести путь для сохранения файла ключа, просто нажимай Enter, чтобы принять все значения по умолчанию (если не нужно что-то специфическое).
-- Продолжай нажимать Enter, чтобы пропустить ввод парольной фразы для ключа.
+- Open Git Bash through this context menu.
+- In the open console, enter the following command to generate an SSH key (don't forget to replace your_email@example.com with your actual email):
+  `ssh-keygen -t rsa -b 4096 -C "your_email@example.com"`
+- When prompted to enter the file path to save the key, simply press Enter to accept all default values (unless you need something specific).
+- Continue pressing Enter to skip the passphrase entry for the key.
 
-После этих шагов, твой ключ будет создан, и ты можешь проверить его, выполнив следующую команду:   
+After these steps, your key will be created, and you can verify it by running the following command:
 `cat ~/.ssh/id_rsa.pub`  
-Команда выведет в консоль твой публичный SSH-ключ, который тебе нужно 
-будет скопировать и добавить в настройки SSH на серверах или сервисах, 
-где ты планируешь использовать SSH-соединения.  
+This command will output your public SSH key, which you need to copy and add to the SSH settings on servers or services where you plan to use SSH connections.
 
-Пример:
+Example:
 `ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC4dWKfEY+j7B+G5ANUJ20kS5AQYFltNlkvBnlyKkSFGFpI5aU/B8FjSUD2UD7Ebn4M6sChlZVqOs2P+tAhtibefnx1HU8jwKj+2+KkfvJ5Vnt7q0LdP2s/YZttQFWT9D+kW6DGPQx6zhw6quPT0WnCvbZOu7NF3qCfX3tJLj8x8XHCzGqIcikQ/nlBqhK6vG8UY2hMifF0sDRtgy6Zr6lSM7/cK+d6GsoJKZM9xlhPHE+zicNXWmrfCI8hcR3D/xG6FGoLkEHpsw98XVHz0D7K0dF5ALxpW0OJut1rk2BWpKbqPlG5y9aTw2MSKeYTxRWW5QeR4cGHsifYhHtqLjF example@example.com`
-## Подключаем к GitHub:  
-Чтобы добавить свой публичный SSH-ключ в GitHub, следуй следующим шагам:  
 
-- Зайди на GitHub и войди в свой аккаунт.
-- Переход в настройки:
-- Кликни на свой аватар в правом верхнем углу и выбери «Settings» (Настройки).
-- В левой боковой панели выбери «SSH and GPG keys» (SSH и GPG ключи).
-- Кликни на кнопку «New SSH key» (Новый SSH-ключ) или «Add SSH key» (Добавить SSH-ключ), если у тебя уже есть сохранённые ключи.
-- В поле «Title» (Название) введи удобное для тебя название ключа, чтобы ты мог его легко идентифицировать.
-- В поле «Key» (Ключ) вставь твой публичный ключ SSH, который ты скопировал ранее с помощью команды cat ~/.ssh/id_rsa.pub.
-- Кликни на кнопку «Add key» (Добавить ключ).  
+## Connecting to GitHub
+To add your public SSH key to GitHub, follow these steps:
 
-После этих шагов твой SSH-ключ будет добавлен к твоему аккаунту GitHub, и ты сможешь использовать SSH для взаимодействия с репозиториями на GitHub.
+- Go to GitHub and log into your account.
+- Navigate to settings
+- Click on your avatar in the top right corner and select "Settings."
+- In the left sidebar, select "SSH and GPG keys."
+- Click the "New SSH key" or "Add SSH key" button if you already have saved keys.
+- In the "Title" field, enter a name for the key that makes it easy for you to identify.
+- In the "Key" field, paste your public SSH key that you copied earlier using the command `cat ~/.ssh/id_rsa.pub`.
+- Click the "Add key" button.
+
+After these steps, your SSH key will be added to your GitHub account, and you can use SSH to interact with repositories on GitHub.

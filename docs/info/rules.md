@@ -1,28 +1,23 @@
-### Базовые правила
-Практика подразумевает 1 час и более работы в будни дни  
-Обязательный трек времени в задачах (в разработке)  
-Всегда должна быть задача в работе, если такой нет, нужно запросить  
+### Basic Rules
+- Practice involves 1 hour or more of work on weekdays.
+- Mandatory time tracking in tasks (in development).
+- There should always be a task in progress; if there is none, it needs to be requested.
 
-### Созвоны
-Для каждой команды устанавливаются свои даты созвона  
-Обычно это - 2 раза в неделю  
+### Calls
+Each team sets its own call dates. Typically, this is twice a week.
 
-### Работа с задачами
-Задачи которые требуют изменений в репозитории нужно делать в отдельной ветке  
-Название ветки создается на базе задачи   
-Название задачи должно быть на англ  
-После работы, нужно создавать PULL-request  
+### Working with Tasks
+- Tasks requiring changes in the repository should be done in a separate branch.
+- Branch names are based on the task name in the GitHub task itself.
+- Task names should be in English.
+- After completing the work, push the changes and create a pull request.
 
-### Как работать с тикетами?
-Каждую неделю мы проводим совещания для определения приоритетов следующего 
-двухнедельного спринта. В течение этого времени вам нужно будет завершить 
-задачи, которые были назначены на вас. На доске в разделе TO DO вы найдёте 
-свои задачи. Когда вы будете готовы начать работу над задачей, перенесите её 
-в столбец In Progress. Для задач, требующих изменений в репозитории, следует 
-создавать ветки согласно установленным правилам.  
-После завершения задачи, добавьте подробное описание выполненных действий в 
-комментарии к карточке задачи. Укажите, что именно было сделано. Если нужно, 
-оставьте инструкции по тестированию или проверке вашей доработки. Затем 
-переместите задачу в раздел доски QA и уберите себя из списка исполнителей 
-этой задачи.  
+
+### How to Work with Tickets
+- Every week, we hold meetings to set priorities for the next two-week sprint. During this time, you will need to complete the tasks assigned to you.
+- On the board in the TO DO section, you will find your tasks. When you are ready to start working on a task, move it to the In Progress column.
+- For tasks requiring changes in the repository, branches should be created according to the established rules.
+- After completing a task, add a detailed description of the actions taken in the task card comments. Specify what exactly was done. If necessary, leave instructions for testing or verifying your work.
+- Then move the task to the QA section of the board and remove yourself from the list of assignees for that task.
+
 

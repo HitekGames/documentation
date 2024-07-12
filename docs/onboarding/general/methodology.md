@@ -1,47 +1,49 @@
-# Что за бяка?
-В разработке видеоигр используются различные методологии, которые 
-помогают организовать процесс создания игр, управлять командами и 
-обеспечивать эффективное взаимодействие между всеми участниками проекта.   
+# What Are These Methodologies?
 
-## Кратко
-### Agile (Эджайл)
-Эта методология ориентирована на гибкость и итеративное развитие, 
-где процесс разработки делится на короткие циклы (спринты), что позволяет 
-команде быстро реагировать на изменения и адаптироваться к новым требованиям. 
-В игровой индустрии Agile позволяет эффективно управлять разработкой, 
-регулярно предоставляя работающий продукт и получая обратную связь от 
-пользователей.  
+In video game development, various methodologies are used to organize 
+the creation process, manage teams, and ensure effective collaboration among all project participants.
+
+## Brief Overview
+
+### Agile
+This methodology focuses on flexibility and iterative development, 
+where the development process is divided into short cycles (sprints), 
+allowing the team to quickly respond to changes and adapt to new 
+requirements. In the gaming industry, Agile allows for effective 
+management of development, regularly delivering a working product 
+and receiving user feedback.
 
 ### Scrum
-Разновидность Agile, Scrum делит проект на циклы разработки (спринты), 
-которые обычно длится от 2 до 4 недель. Каждый спринт начинается с 
-планирования и заканчивается обзором, что позволяет оценить проделанную 
-работу и внести необходимые корректировки. Scrum использует роли, такие как 
-Scrum Master и Product Owner, для улучшения процесса управления проектом.  
+A variant of Agile, Scrum divides the project into development cycles 
+(sprints) that usually last from 2 to 4 weeks. 
+Each sprint begins with planning and ends with a review, allowing the 
+team to assess the work done and make necessary adjustments. 
+Scrum uses roles such as Scrum Master and Product Owner to improve 
+the project management process.
 
-### Kanban (Канбан)
-Kanban фокусируется на оптимизации потока работы и управлении очередями задач. 
-В этой методологии команды стараются минимизировать количество работ, 
-находящихся в процессе, что помогает увеличить прозрачность проекта и 
-сократить время выполнения задач. Это особенно полезно в проектах, где 
-требуется непрерывная доставка нового контента.  
+### Kanban
+Kanban focuses on optimizing workflow and managing task queues. 
+In this methodology, teams strive to minimize the amount of work 
+in progress, which helps increase project transparency and reduce 
+task completion time. This is especially useful in projects that 
+require continuous delivery of new content.
 
-### Waterfall (Водопад)
-Традиционная методология, в которой проект разрабатывается последовательно 
-от начала до конца по строго определенным этапам. Каждый этап должен быть 
-завершен перед тем, как начать следующий. Эта методология может быть 
-эффективной для проектов с четко определенными требованиями и ограничениями, 
-но она менее гибкая по сравнению с Agile.  
+### Waterfall
+A traditional methodology where the project is developed sequentially 
+from start to finish through clearly defined stages. Each stage must 
+be completed before starting the next. This methodology can be 
+effective for projects with well-defined requirements and constraints 
+but is less flexible compared to Agile.
 
-## Полезные видосы
-Модели и Методологии разработки ПО (Waterfall, V-model, Agile, Scrum, Kanban 
-и другие)  
-https://www.youtube.com/watch?v=cDvpbdO9cT8  
+## Useful Videos
+Software Development Models and Methodologies (Waterfall, V-model, 
+Agile, Scrum, Kanban, and others)  
+https://www.youtube.com/watch?v=cDvpbdO9cT8
 
-Методологии SCRUM, Agile, Kanban и т.д. с точки зрения руководителя и 
-разработчика  
-https://www.youtube.com/watch?v=AvZw4UU6uac  
+Methodologies SCRUM, Agile, Kanban, etc. from the Perspective of a 
+Manager and Developer  
+https://www.youtube.com/watch?v=AvZw4UU6uac
 
-Методологии и модели разработки ПО. Scrum, Kanban, Agile, Водопадная модель, 
-V-model  
+Software Development Methodologies and Models. Scrum, Kanban, Agile, 
+Waterfall, V-model  
 https://www.youtube.com/watch?v=QAj8X7FwQF8  

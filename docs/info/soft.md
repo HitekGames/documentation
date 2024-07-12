@@ -1,44 +1,46 @@
-## ПО которое мы используем для работы
+## Software We Use for Work
 
 ### Unity
-Главный сайт - https://unity.com/ru  
-Нужно будет скачать UnityHub  
-Далее нужно будет скачать и установить версию unity - 2022.3.34f1  
+Main site: [https://unity.com/ru](https://unity.com/ru)  
+You will need to download UnityHub.  
+Then, download and install Unity version 2022.3.34f1.  
 
 ### Git
-Главный сайт - https://git-scm.com  
-Тулза для контроля версий  
-Скачать и установить последнюю версию  
-Git LFS -https://git-lfs.com  
-Нужен для работы с большими файлами  
-Если у вас MacOS то нужно еще brew поставить  
-Сайт brew - https://brew.sh  
-Там нужно будет команду в терменале прогнать  
-И в конце сборки еще попросит запустить 2 команды, оно их там и напишет  
-Читайте внимательно  
+Main site: [https://git-scm.com](https://git-scm.com)  
+Tool for version control.  
+Download and install the latest version.  
+**Git LFS**: [https://git-lfs.com](https://git-lfs.com)  
+Needed for working with large files.  
+
+If you have MacOS, you will also need to install brew.  
+Brew site: [https://brew.sh](https://brew.sh)  
+You will need to run a command in the terminal from there.  
+At the end of the setup, it will ask you to run two more commands. They will be listed there.  
+Read carefully.  
 
 ### ChatGPT
-Главный сайт - https://chatgpt.com  
-Зарегайтесь - это мощная тулза для генерации решений и кода  
+Main site: [https://chatgpt.com](https://chatgpt.com)  
+Register - it's a powerful tool for generating solutions and code.  
 
 ### Blender
-Главный сайт - https://www.blender.org  
-Ставим последнюю версию  
-Тулза для 3д моделирования  
+Main site: [https://www.blender.org](https://www.blender.org)  
+Install the latest version.  
+Tool for 3D modeling.  
 
 ### Sublime Text
-Главный сайт - https://www.sublimetext.com  
-Удобный текстовый редактор  
+Main site: [https://www.sublimetext.com](https://www.sublimetext.com)  
+Convenient text editor.  
 
 ### Visual Studio
-Главный сайт - https://visualstudio.microsoft.com/ru/   
-IDE для разработки  
+Main site: [https://visualstudio.microsoft.com/ru/](https://visualstudio.microsoft.com/ru/)  
+IDE for development.  
 
 ### IntelliJ IDEA Community Edition
-Главный сайт - https://www.jetbrains.com/idea/download  
-Крутая IDEшка для базовых задач  
-Вам нужно опуститься ниже, ибо сверху будет платная версия, ниже - бесплатная  
+Main site: [https://www.jetbrains.com/idea/download](https://www.jetbrains.com/idea/download)  
+Great IDE for basic tasks.  
+You need to scroll down to find the free version, 
+as the top section is for the paid version.  
 
 ### Google Drive
-Главный сайт - https://www.google.com/intl/ru/drive/download/  
-Удобнее работать, если интегрировано в систему  
+Main site: [https://www.google.com/intl/ru/drive/download/](https://www.google.com/intl/ru/drive/download/)  
+More convenient to work with if integrated into the system.  

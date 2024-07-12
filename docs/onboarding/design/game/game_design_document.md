@@ -1,234 +1,192 @@
-# Геймдизайн докумет
-## Що це?
-Це документ де описана суть
+# Game Design Document (GDD)
+## What is it?
+A document that describes the essence
 
-(сеттінг, геймплей і його елементи, всі істоти та сюжет)
+(setting, gameplay and its elements, all creatures, and the plot)
 
-що дає нам врешті зрозуміти **ідею**!
+that ultimately helps us understand the **idea**!
 
-! - також ідея може бути винесена одразу як перший пункт, але все ж треба старатися
-писати документ так щоб він був інтиїтивно зрозумілий
-## Для чого потрібен?
-Дає чітке поняття про гру, що в ній є і як з цим працювати.  
-По суті це такий собі довідник, як у машини любої моделі є свій "довідник" - так і тут.
+! - The idea can also be included as the first point, but it's essential to write the document intuitively.
 
-Коли приходить нова людина знайомитися з проектом, то їй потрібно швидко і чітко розібратися
-з чим вона має діло.
-## Які бувають види геймдизайн документів?
+## Why is it needed?
+Provides a clear understanding of the game, what it contains, and how to work with it.
+Essentially, it's a guide, much like any model of a machine has its "manual" – so does this.
 
-Гейм-дизайн документ (ГДД) є основним документом, що описує всі аспекти гри,
-включаючи її механіки, історію, персонажів, рівні, інтерфейси та інші деталі.
-Існує кілька видів ГДД, кожен з яких охоплює різні аспекти розробки гри. Ось основні види ГДД:
+When a new person gets acquainted with the project, they need to quickly and clearly understand what they are dealing with.
 
-### 1. Основний Гейм-дизайн документ (Main Game Design Document)
-   Це головний документ, який охоплює всі аспекти гри. Він включає в себе загальну концепцію гри,
-   її механіки, історію, персонажів, рівні, інтерфейс та інші ключові елементи.
+## Types of Game Design Documents
 
-### 2. Технічний дизайн документ (Technical Design Document)
-   Цей документ фокусується на технічних аспектах гри.
-   Він описує архітектуру програмного забезпечення, технології, які будуть використовуватися,
-   алгоритми, структуру даних та інші технічні деталі.
+A Game Design Document (GDD) is the main document that describes all aspects of the game, including its mechanics, story, characters, levels, interfaces, and other details. There are several types of GDDs, each covering different aspects of game development. Here are the main types of GDDs:
 
-### 3. Художній дизайн документ (Art Design Document)
-   Описує візуальні аспекти гри, включаючи стиль, кольорову палітру, моделі персонажів, локації,
-   анімації та інші художні елементи.
+### 1. Main Game Design Document
+The primary document covering all aspects of the game. It includes the general concept of the game, its mechanics, story, characters, levels, interface, and other key elements.
 
-### 4. Звуковий дизайн документ (Audio Design Document)
-   Містить інформацію про звуковий супровід гри, включаючи музику, звукові ефекти,
-   голоси персонажів та інші аудіо елементи.
+### 2. Technical Design Document
+Focuses on the technical aspects of the game. It describes the software architecture, technologies to be used, algorithms, data structures, and other technical details.
 
-### 5. Дизайн документ рівнів (Level Design Document)
-   Описує структуру та деталі рівнів гри. Він містить інформацію про розташування об'єктів,
-   завдання, які потрібно виконати на рівнях, та інші деталі, що стосуються дизайну рівнів.
+### 3. Art Design Document
+Describes the visual aspects of the game, including style, color palette, character models, locations, animations, and other artistic elements.
 
-### 6. Інтерфейсний дизайн документ (User Interface Design Document)
-   Описує дизайн користувацького інтерфейсу гри, включаючи меню, HUD (Heads-Up Display),
-   екрани налаштувань та інші елементи інтерфейсу.
+### 4. Audio Design Document
+Contains information about the game's sound design, including music, sound effects, character voices, and other audio elements.
 
-### 7. Дизайн документ сценарію (Script Design Document)
-   Містить детальний опис сюжету гри, діалогів, подій та інших елементів, пов'язаних зі сценарієм.
+### 5. Level Design Document
+Describes the structure and details of the game levels. It contains information about the placement of objects, tasks to be completed at levels, and other details related to level design.
 
-### 8. Документ ігрової механіки (Game Mechanics Design Document)
-   Описує всі ігрові механіки, включаючи правила гри, фізику, взаємодію між персонажами,
-   системи прокачки, бойові системи та інші механіки.
+### 6. User Interface Design Document
+Describes the design of the game's user interface, including menus, HUD (Heads-Up Display), settings screens, and other interface elements.
 
-### 9. Документ тестування (Testing Document)
-   Описує стратегію тестування гри, включаючи види тестування, плани тестування,
-   випадки тестування та інші деталі, пов'язані з забезпеченням якості гри.
+### 7. Script Design Document
+Contains a detailed description of the game's plot, dialogues, events, and other elements related to the script.
 
-#### **!** - В осносному використовують 1 - 3 та 5, так як механіки(8) заносять в технічний док(2), а інтерфейс в графіку(3)
+### 8. Game Mechanics Design Document
+Describes all game mechanics, including game rules, physics, interactions between characters, leveling systems, combat systems, and other mechanics.
 
+### 9. Testing Document
+Describes the game's testing strategy, including types of testing, testing plans, test cases, and other details related to ensuring the game's quality.
 
-## Які бувать види написання ГДД?
-Ось приклади різних підходів до написання гейм-дизайн документів (ГДД):
-класичний,
-системний та в одну сторінку.
+#### **!** - Mainly, documents 1-3 and 5 are used, as mechanics (8) are included in the technical document (2), and the interface in the art document (3).
 
+## Types of GDD Writing Approaches
+Here are examples of different approaches to writing Game Design Documents (GDDs): classical, systematic, and one-sheet.
 
-Кожен з них має свої особливості і підходить для різних етапів розробки гри або
-для різних розмірів проектів.
+Each has its characteristics and is suitable for different stages of game development or for different project sizes.
 
-### Класичний підхід
-Класичний підхід
-Класичний ГДД - це великий і детальний документ, який охоплює всі аспекти гри. Він ідеально підходить для великих проектів, де необхідно врахувати багато деталей.
+### Classical Approach
+The Classical GDD is a large and detailed document that covers all aspects of the game. It is ideal for large projects where many details need to be considered.
 
-Приклад структури класичного ГДД:
+Example structure of a classical GDD:
 
-#### 1. Вступ
+#### 1. Introduction
+- Brief description of the game
+- Game goal
+- Target audience
+- Platforms
+- Game concept
 
-- Короткий опис гри
-- Мета гри
-- Цільова аудиторія
-- Платформи
-- Ігрова концепція
+#### 2. Genre
+- Gameplay
+- Key features
 
-#### 2. Жанр
-- Ігровий процес
-- Основні особливості
+#### 3. Story and Characters
+- Main story
+- Main characters
+- Secondary characters
 
-#### 3. Сюжет і персонажі
-- Основна історія
-- Головні персонажі
-- Другорядні персонажі
+#### 4. Game Mechanics
+- Controls
+- Combat system
+- Leveling system
+- Other mechanics
 
-#### 4. Ігрові механіки
+#### 5. Levels and Environments
+- Description of levels
+- Maps and locations
 
-- Управління
-- Бойова система
-- Система прокачки
-- Інші механіки
-#### 5. Рівні та середовища
-- Опис рівнів
-- Карти та локації
-
-#### 6. Користувацький інтерфейс
-- Меню
+#### 6. User Interface
+- Menus
 - HUD
-- Налаштування
+- Settings
 
-#### 7. Аудіо
-- Звукові ефекти
-- Музика
-- Голоси персонажів
+#### 7. Audio
+- Sound effects
+- Music
+- Character voices
 
-#### 8. Художній стиль
-- Візуальний стиль
-- Моделі та текстури
-- Анімації
+#### 8. Art Style
+- Visual style
+- Models and textures
+- Animations
 
-#### 9. Технічні деталі
-- Технології
-- Архітектура
-- Оптимізація
+#### 9. Technical Details
+- Technologies
+- Architecture
+- Optimization
 
-#### 10. Тестування
-- Плани тестування
-- Випадки тестування
+#### 10. Testing
+- Testing plans
+- Test cases
 
-#### **!** - класичний підхід все частіше втрачає популярність уступаючи "системному підходу"
+#### **!** - The classical approach is increasingly losing popularity to the "systematic approach".
 
-### Системний підхід
-Системний підхід передбачає створення ГДД,
-розділеного на окремі документи або розділи,
-кожен з яких описує конкретний аспект гри.
+### Systematic Approach
+The Systematic Approach involves creating a GDD divided into separate documents or sections, each describing a specific aspect of the game.
 
-Це підходить для проектів середнього розміру, де необхідна модульність і гнучкість.
+This is suitable for medium-sized projects where modularity and flexibility are needed.
 
-Приклад системного підходу:
+Example of a systematic approach:
 
-#### Основний документ:
+#### Main Document:
+- General concept
+- Target audience
+- Platforms
 
-- Загальна концепція
-- Цільова аудиторія
-- Платформи
+#### Mechanics Document:
+- Controls
+- Combat system
+- Leveling system
 
-#### Документ механік:
+#### Story and Characters Document:
+- Main story
+- Main and secondary characters
 
-- Управління
-- Бойова система
-- Система прокачки
+#### Levels Document:
+- Description of levels
+- Maps and locations
 
-#### Документ сюжетів і персонажів:
-
-- Основна історія
-- Головні та другорядні персонажі
-
-#### Документ рівнів:
-
-- Опис рівнів
-- Карти та локації
-
-#### Документ інтерфейсу:
-
-- Меню
+#### Interface Document:
+- Menus
 - HUD
-- Налаштування
+- Settings
 
-#### Документ аудіо:
+#### Audio Document:
+- Sound effects
+- Music
 
-- Звукові ефекти
-- Музика
+#### Art Style Document:
+- Visual style
+- Models and textures
 
-#### Документ художнього стилю:
+#### **!** - This approach is very convenient with dynamic hyperlinks, everything is structured into separate but related documents.
 
-- Візуальний стиль
-- Моделі та текстури
+### One-Sheet
+A One-Sheet GDD is suitable for small projects or prototypes and is ideal for **"pitching ideas"**.
 
-#### **!** - Дуже крутий підхід в якому все під рукою завдяки динамічним гіпер-посиланням, все структуровано по окремим незалежним хоч і пов'язаним документам
+It contains only the most important elements of the game, allowing for a quick assessment of the concept.
 
-### В одну сторінку (One-Sheet)
-ГДД в одну сторінку підходить для невеликих проектів або прототипів,
-а також ідеальний для **"пітчів своїх ідей"**.
+Example of a One-Sheet GDD:
 
-Він містить тільки найважливіші елементи гри, що дозволяє швидко оцінити концепцію.
+#### Game Title:
 
-Приклад ГДД в одну сторінку:
+#### Brief Description:
+- Short summary of the game, its genre, and main mechanics.
 
-#### Назва гри:
+#### Target Audience:
+- Age, interests, platforms.
 
-#### Короткий опис:
+#### Gameplay:
+- Main game mechanics.
+- Key gameplay elements.
 
-- Коротке резюме гри, її жанру і основних механік.
+#### Story:
+- Main story.
+- Main characters.
 
-#### Цільова аудиторія:
+#### Visual Style:
+- Description of the graphic style.
+- Key design elements.
 
-- Вік, інтереси, платформи.
+#### Audio:
+- Type of music and sound effects.
 
-#### Ігровий процес:
+#### Features:
+- Unique or key features that set the game apart from others.
 
-- Основні механіки гри.
-- Ключові елементи геймплею.
+#### **!** - The focus here is on gameplay, visual style, and story if it is important, fitting into one, rarely two pages (if there are images or a few reference links).
 
-#### Сюжет:
+## What is important now?
+Summarizing everything mentioned above, the most important thing is to understand the essence of the **"Systematic Approach"** to writing game documentation and all subsequent GDDs.
 
-- Основна історія.
-- Головні персонажі.
+Also, pitching ideas or prototypes in the form of a **"One-Sheet"** document.
 
-#### Візуальний стиль:
-
-- Опис стилю графіки.
-- Основні елементи дизайну.
-
-#### Аудіо:
-
-- Тип музики та звукових ефектів.
-
-#### Особливості:
-
-- Унікальні або ключові особливості, які відрізняють гру від інших.
-
-#### **!** - основне тут це ігровий процес, візуальний стиль і сюжет якщо він тут важливий це база яка має зачіпити і
-#### вкластися в одну рідко у дві сторінки(якщо там є картинки чи кілька посилань-референсів)
-
-## Що важливо зараз?
-Підсумовуючи все вищенаписане найважливіше це зрозуміти суть **"Системного Підходу"**
-для написання ігрової документації і всіх наступних ГДД.
-
-Також пітчу ідей чи прототипів у вигляді
-документу **"В одну сторінку"**
-
-В основному в індустрії використовують системний підхід де використовують кілька видів документів
-часто їх єднаючи, а також
-
-роблячи під-документи по типу документ - "Механіки", має підтипи
-"Механіки Ворогів", та "Механіки ГГ"
+Mainly, the industry uses the systematic approach where multiple types of documents are used, often combining them, and also creating sub-documents like the "Mechanics" document, which has subtypes "Enemy Mechanics" and "Main Character Mechanics".

@@ -1,18 +1,18 @@
 # Hitek Games
 
-## Лицензия
-Все проекты Hitek Games защищены соответствующими лицензиями. Доступ к ним предоставляется после подписания соответствующих документов.  
-__Ассеты запрещено использовать в любом виде за пределами данной организации!!!__  
+## License
+All Hitek Games projects are protected by appropriate licenses. Access is granted after signing the relevant documents.  
+__Assets are prohibited from being used in any form outside of this organization!!!__
 
-## С чего начать?
-Скачиваем данный репозиторий, открываем в любом удобном редакторе.
-Важно - прочитать информации в директории __'info'__
+## Where to Start?
+Download this repository and open it in any convenient editor.
+Important - read the information in the __'info'__ directory.
 
-[Бенефиты](docs/info/benefits.md)  
-[Правила](docs/info/rules.md)
+[Benefits](docs/info/benefits.md)  
+[Rules](docs/info/rules.md)
 
-## Внешние ссылки
-[Google Drive](https://drive.google.com/drive/folders/1SjqtnrwBqF4NKiloHN-WM2AZ76cfkP54?usp=sharing) - Доступ нужно запрашивать.  
-Место для хранения данных/документов/картинок/диаграмм и тд  
-__Discord__ - ссылка создается индивидуально под каждого.  
-Место для общения/переписок/созвонов/координации
+## External Links
+[Google Drive](https://drive.google.com/drive/folders/1SjqtnrwBqF4NKiloHN-WM2AZ76cfkP54?usp=sharing) - Access must be requested.  
+A place for storing data/documents/images/diagrams, etc.  
+__Discord__ - the link is created individually for each person.  
+A place for communication/chats/calls/coordination.

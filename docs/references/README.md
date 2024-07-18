@@ -91,3 +91,5 @@ If you have any questions or need additional information, please contact your te
 - [Seek Or Die](https://store.steampowered.com/app/803030/Seek_Or_Die/)
 - [Poppy Playtime](https://store.steampowered.com/app/1721470/Poppy_Playtime/)
 - [Dark Deception](https://store.steampowered.com/app/332950/Dark_Deception/)
+- [INSIDE](https://store.steampowered.com/app/304430/INSIDE/)
+- [Skinny](https://store.steampowered.com/app/977340/Skinny/)

@@ -112,3 +112,4 @@ If you have any questions or need additional information, please contact your te
 - [Eschaton](https://store.steampowered.com/app/1951940/Eschaton/)
 - [MOMO.EXE 2](https://store.steampowered.com/app/946780/MOMOEXE_2/)
 - [Hello From Darkness](https://store.steampowered.com/app/1465380/Hello_From_Darkness/)
+- [The Mortuary Assistant](https://store.steampowered.com/app/1295920/The_Mortuary_Assistant/)

@@ -116,3 +116,5 @@ If you have any questions or need additional information, please contact your te
 - [Father's Day](https://store.steampowered.com/app/1800790/Fathers_Day/)
 - [Escape the Backrooms](https://store.steampowered.com/app/1943950/Escape_the_Backrooms/)
 - [Cry of Fear](https://store.steampowered.com/app/223710/Cry_of_Fear/)
+- [Content Warning](https://store.steampowered.com/app/2881650/Content_Warning/)
+- [Lethal Company](https://store.steampowered.com/app/1966720/Lethal_Company/)

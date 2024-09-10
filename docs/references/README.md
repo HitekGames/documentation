@@ -118,3 +118,35 @@ If you have any questions or need additional information, please contact your te
 - [Cry of Fear](https://store.steampowered.com/app/223710/Cry_of_Fear/)
 - [Content Warning](https://store.steampowered.com/app/2881650/Content_Warning/)
 - [Lethal Company](https://store.steampowered.com/app/1966720/Lethal_Company/)
+
+# Assets
+https://assetstore.unity.com/packages/2d/gui/icons/6000-flat-buttons-icons-pack-64223  
+https://assetstore.unity.com/packages/audio/music/orchestral/ultimate-game-music-collection-37351  
+https://assetstore.unity.com/packages/2d/gui/icons/ui-kit-pro-casual-glossy-165066  
+https://assetstore.unity.com/packages/2d/characters/fantasy-monsters-animated-megapack-159572  
+https://assetstore.unity.com/packages/2d/environments/2d-hand-painted-extra-objects-127819  
+https://assetstore.unity.com/packages/2d/environments/2d-hand-painted-snowland-tileset-124048  
+https://assetstore.unity.com/packages/2d/environments/2d-hand-painted-mine-tileset-105810  
+https://assetstore.unity.com/packages/2d/environments/2d-hand-painted-town-tileset-67346  
+https://assetstore.unity.com/packages/2d/environments/2d-hand-painted-interior-tileset-66953  
+https://assetstore.unity.com/packages/2d/environments/2d-hand-painted-grassland-tileset-47763  
+https://assetstore.unity.com/packages/2d/environments/2d-hand-painted-dungeon-tileset-42935  
+https://assetstore.unity.com/packages/tools/game-toolkits/fantasy-inventory-system-102984  
+https://assetstore.unity.com/packages/2d/gui/icons/food-loot-icons-185975  
+https://assetstore.unity.com/packages/2d/gui/icons/fantasy-inventory-icons-117467  
+https://assetstore.unity.com/packages/2d/environments/2d-hand-painted-tilesets-bundle-175058  
+https://assetstore.unity.com/packages/2d/characters/character-editor-4d-megapack-147364  
+https://assetstore.unity.com/packages/2d/gui/icons/spellbook-megapack-109615  
+https://assetstore.unity.com/packages/3d/environments/urban/hq-abandoned-school-modular-106665  
+https://assetstore.unity.com/packages/3d/environments/urban/hq-retro-farmhouse-modular-154929  
+https://assetstore.unity.com/packages/3d/characters/monster02-288971  
+https://assetstore.unity.com/packages/3d/characters/monster12-289079  
+https://assetstore.unity.com/packages/3d/characters/monster13-289094  
+https://assetstore.unity.com/packages/3d/characters/alien-02-288714  
+https://assetstore.unity.com/packages/3d/characters/alien13-289709  
+https://assetstore.unity.com/packages/3d/props/low-poly-ultimate-pack-54733  
+https://assetstore.unity.com/packages/3d/environments/sci-fi/sci-fi-base-173333  
+https://assetstore.unity.com/packages/3d/vegetation/trees/animated-trees-package-169445  
+https://assetstore.unity.com/packages/3d/characters/humanoids/pbr-customized-soldier-111945  
+https://assetstore.unity.com/packages/3d/environments/urban/cbu-apocalypse-edition-202001  
+https://assetstore.unity.com/packages/3d/environments/historic/victorian-interior-148542

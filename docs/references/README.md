@@ -125,6 +125,12 @@ To gain access to the test account, follow these steps:
 - [Metro 2033 Redux](https://store.steampowered.com/app/286690/Metro_2033_Redux/)
 - [Metro Exodus Expansion Pass](https://store.steampowered.com/app/924220/Metro_Exodus_Expansion_Pass/)
 - [Metro Exodus](https://store.steampowered.com/app/412020/Metro_Exodus/)
+- [DYING LIGHT ENHANCED EDITION](https://store.steampowered.com/sub/88802/)
+- [Dead Space™ 3](https://store.steampowered.com/app/1238060/Dead_Space_3/)
+- [Dead Space™ 2](https://store.steampowered.com/app/47780/Dead_Space_2/)
+- [Resident Evil Revelations 2](https://store.steampowered.com/app/287290/Resident_Evil_Revelations_2/)
+- [BIOSHOCK](https://store.steampowered.com/sub/451/)
+- [BIOSHOCK 2 REMASTERED](https://store.steampowered.com/sub/81419/)
 - 
 
 # Assets

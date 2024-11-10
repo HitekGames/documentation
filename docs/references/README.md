@@ -121,6 +121,10 @@ To gain access to the test account, follow these steps:
 - [S.T.A.L.K.E.R.: Call of Pripyat](https://store.steampowered.com/app/41700/STALKER_Call_of_Pripyat/)
 - [S.T.A.L.K.E.R.: Clear Sky](https://store.steampowered.com/app/20510/STALKER_Clear_Sky/)
 - [S.T.A.L.K.E.R.: Shadow of Chernobyl](https://store.steampowered.com/app/4500/STALKER_Shadow_of_Chernobyl/)
+- [Metro: Last Light Redux](https://store.steampowered.com/app/287390/Metro_Last_Light_Redux/)
+- [Metro 2033 Redux](https://store.steampowered.com/app/286690/Metro_2033_Redux/)
+- [Metro Exodus Expansion Pass](https://store.steampowered.com/app/924220/Metro_Exodus_Expansion_Pass/)
+- [Metro Exodus](https://store.steampowered.com/app/412020/Metro_Exodus/)
 - 
 
 # Assets

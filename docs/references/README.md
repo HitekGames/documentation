@@ -131,9 +131,23 @@ To gain access to the test account, follow these steps:
 - [Resident Evil Revelations 2](https://store.steampowered.com/app/287290/Resident_Evil_Revelations_2/)
 - [BIOSHOCK](https://store.steampowered.com/sub/451/)
 - [BIOSHOCK 2 REMASTERED](https://store.steampowered.com/sub/81419/)
+- [Alien: Isolation](https://store.steampowered.com/app/214490/Alien_Isolation/)
+- [CASE 2: Animatronics Survival](https://store.steampowered.com/app/722960/CASE_2_Animatronics_Survival/)
+- [Half-Life 2](https://store.steampowered.com/app/220/HalfLife_2/)
+- [House of Detention](https://store.steampowered.com/app/1293230/House_of_Detention/)
+- [Kingdom Come: Deliverance](https://store.steampowered.com/app/379430/Kingdom_Come_Deliverance/)
+- [Kingdom Come: Deliverance](https://store.steampowered.com/app/379430/Kingdom_Come_Deliverance/)
 - 
 
 # Assets
+https://assetstore.unity.com/packages/3d/environments/fantasy/modular-destroyed-buildings-modular-house-houses-modular-buildin-288447  
+https://assetstore.unity.com/packages/3d/environments/fantasy/kaykit-halloween-bits-for-unity-282791  
+https://assetstore.unity.com/packages/3d/environments/dungeons/kaykit-dungeon-remastered-pack-for-unity-290676  
+https://assetstore.unity.com/packages/3d/characters/humanoids/fantasy/kaykit-skeletons-character-pack-for-unity-290680  
+https://assetstore.unity.com/packages/3d/characters/humanoids/humans/kaykit-adventurers-character-pack-for-unity-290679  
+https://assetstore.unity.com/packages/3d/environments/sci-fi/top-down-sci-fi-18938  
+https://assetstore.unity.com/packages/3d/characters/sci-fi-characters-mega-pack-vol-3-298914  
+https://assetstore.unity.com/packages/2d/textures-materials/floors/landscape-ground-pack-2-73547  
 https://assetstore.unity.com/packages/2d/gui/icons/6000-flat-buttons-icons-pack-64223  
 https://assetstore.unity.com/packages/audio/music/orchestral/ultimate-game-music-collection-37351  
 https://assetstore.unity.com/packages/2d/gui/icons/ui-kit-pro-casual-glossy-165066  

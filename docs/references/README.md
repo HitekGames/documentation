@@ -178,3 +178,5 @@ https://assetstore.unity.com/packages/3d/vegetation/trees/animated-trees-package
 https://assetstore.unity.com/packages/3d/characters/humanoids/pbr-customized-soldier-111945  
 https://assetstore.unity.com/packages/3d/environments/urban/cbu-apocalypse-edition-202001  
 https://assetstore.unity.com/packages/3d/environments/historic/victorian-interior-148542
+https://assetstore.unity.com/packages/3d/props/exterior/playground-props-pack-214455
+
